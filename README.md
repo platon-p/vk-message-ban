@@ -2,7 +2,7 @@
 
 ___
 
-**Загрузите файл [main](https://github.com/platon-p/vk-message-ban/releases/latest/download/main)**
+**Загрузите файл [main](https://github.com/platon-p/vk-message-ban/archive/refs/tags/v1.0.zip)**
 
 1. Запустите файл main
 2. Перейдите на https://vkhost.github.io
