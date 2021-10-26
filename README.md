@@ -1,3 +1,5 @@
+[![release](https://img.shields.io/github/v/tag/platon-p/vk-message-ban?label=download)](https://github.com/platon-p/vk-message-ban/archive/refs/tags/v1.0.zip)
+
 # Скрипт, чтобы VK запретил отправлять сообщения
 
 ___
