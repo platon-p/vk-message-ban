@@ -4,7 +4,7 @@
 
 ___
 
-**Загрузите файл [main](https://github.com/platon-p/vk-message-ban/archive/refs/tags/v1.0.zip)**
+**Загрузите [архив](https://github.com/platon-p/vk-message-ban/archive/refs/tags/v1.0.zip) и распакуйте**
 
 1. Запустите файл main
 2. Перейдите на https://vkhost.github.io
