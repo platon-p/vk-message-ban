@@ -1,10 +1,10 @@
-[comment]: <> ([![release]&#40;https://img.shields.io/github/v/tag/platon-p/vk-message-ban?label=download&#41;]&#40;https://github.com/platon-p/vk-message-ban/archive/refs/tags/v1.0.zip&#41;)
+[![release](https://img.shields.io/github/v/tag/platon-p/vk-message-ban?label=download)](https://github.com/platon-p/vk-message-ban/releases/latest/download/windows.exe)
 
 # Скрипт, чтобы VK запретил отправлять сообщения
 
 ___
 
-[comment]: <> (**Загрузите [windows.exe]&#40;https://github.com/platon-p/vk-message-ban/archive/refs/tags/v1.0.zip&#41; и распакуйте**)
+**Загрузите [windows.exe](https://github.com/platon-p/vk-message-ban/releases/latest/download/windows.exe)**
 
 1. Запустите файл windows.exe
 2. Перейдите на https://vkhost.github.io
